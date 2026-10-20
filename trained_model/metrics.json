@@ -1,0 +1,16 @@
+{
+  "train_images": 160,
+  "validation_images": 40,
+  "augmented_training_samples": 960,
+  "float_train_accuracy": 0.93125,
+  "float_validation_accuracy": 0.625,
+  "integer_train_accuracy": 0.86875,
+  "integer_validation_accuracy": 0.725,
+  "selected_seed": 7,
+  "output_threshold_adjustment": -264,
+  "input_format": "28x28 RGB, each byte is pixel_value - 128 encoded as signed int8",
+  "dog_label": 1,
+  "cat_label": 0,
+  "w_scale": 64,
+  "activation_shift": 8
+}
