@@ -48,7 +48,7 @@ This is an educational prototype, not a production-grade image-recognition syste
 - `tools/train_export_weights.py` — training and weight/ROM export script
 - `tools/check_synth.tcl` — synthesis status helper
 - `generated_bitstreams/` — previously generated `.bit` and `.mcs` files
-- Root-level copies of earlier files are retained for backward compatibility.
+- `docs/PROJECT_NOTES.md` — hardware setup, programming, and demo notes
 
 Training images and selected demo images are **not included** in this repository. Add data only when you have permission to redistribute it.
 
